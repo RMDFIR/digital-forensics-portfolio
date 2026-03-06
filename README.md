@@ -20,7 +20,7 @@ Thanks for stopping by!
 
 ## Projects
 
-### Windows Log Baseline Analysis
+## Windows Event Log Analysis – Login Activity
 A structured review of Windows Security Event IDs 4624 and 4625 in a controlled environment to understand login behavior and identify potential indicators of suspicious activity.
 (Current project)
 
