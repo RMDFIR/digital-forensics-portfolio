@@ -1,7 +1,7 @@
 # RMDFIR's Digital Forensics & Security Portfolio
 
 ## About Me
-I am a cybersecurity professional with a Master’s degree in Cybersecurity, Security+ certification, and ongoing training in Python automation. My long-term goal is to transition into digital forensics and investigative security roles.
+Welcome to my journey. I am a cybersecurity professional with a master’s degree in Cybersecurity and Security+ certification. My focus is digital forensics and investigative security. This portfolio highlights hands on labs, structured investigations, and automation projects as I build practical experiences in DFIR and security analysis. Thanks for stopping by!
 
 This portfolio documents hands-on labs, forensic investigations, and structured security analysis projects.
 
