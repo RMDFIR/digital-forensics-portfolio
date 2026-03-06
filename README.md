@@ -1,35 +1,33 @@
 # RMDFIR's Digital Forensics & Security Portfolio
 
 ## About Me
-Welcome to my journey. I am a cybersecurity professional with a master’s degree in Cybersecurity and Security+ certification. My focus is digital forensics and investigative security. This portfolio highlights hands on labs, structured investigations, and automation projects as I build practical experiences in DFIR and security analysis. Thanks for stopping by!
+Welcome to my journey. I am a cybersecurity professional with a Master’s degree in Cybersecurity and Security+ certification, with a growing focus on digital forensics and investigative security. This portfolio showcases hands-on labs, structured investigations, and automation projects as I continue building practical experience in DFIR and security analysis.
+Thanks for stopping by!
+
 
 This portfolio documents hands-on labs, forensic investigations, and structured security analysis projects.
 
 ---
 
-## Skills in Development
-- Windows Log Analysis
+## Core Competencies
+- Windows Event Log Analysis
 - Timeline Reconstruction
 - Digital Artifact Investigation
-- Basic Python Automation
-- Incident Documentation
+- Python Automation for Security
+- Structured Incident Documentation
 
 ---
 
 ## Projects
 
-### 1. Windows Log Baseline Analysis
-(In Progress)
+### Windows Log Baseline Analysis
+A structured review of Windows Security Event IDs 4624 and 4625 in a controlled environment to understand login behavior and identify potential indicators of suspicious activity.
+(Current project)
 
-### 2. Autopsy Forensic Investigation
-(Coming Soon)
-
-### 3. Python Log Parser
-(Coming Soon)
 
 ---
 
-## Tools Used
+## Tools To Be Used
 - Windows Event Viewer
 - Autopsy
 - TryHackMe
