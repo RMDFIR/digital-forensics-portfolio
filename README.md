@@ -1,7 +1,9 @@
 # RMDFIR's Digital Forensics & Security Portfolio
 
 ## About Me
-Welcome to my journey. I am a cybersecurity professional with a Master’s degree in Cybersecurity and Security+ certification, with a growing focus on digital forensics and investigative security. This portfolio showcases hands-on labs, structured investigations, and automation projects as I continue building practical experience in DFIR and security analysis.
+Welcome to my journey. I am a cybersecurity professional with a Master’s degree in Cybersecurity and Security+ certification, with a growing focus on digital forensics and investigative security. 
+
+This portfolio showcases hands-on labs, structured investigations, and automation projects as I continue building practical experience in DFIR and security analysis.
 Thanks for stopping by!
 
 ---
