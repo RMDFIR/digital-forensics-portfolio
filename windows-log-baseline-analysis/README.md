@@ -22,7 +22,7 @@ To understand normal Windows login behavior and identify differences between suc
 - Local account activity did not include remote source IP addresses
 
 ## Analysis
-Understanding baseline login behavior is critical for identifying abnormal authentication activity such as brute-force attempts or unauthorized access.
+Understanding baseline login behavior is critical for identifying abnormal authentication activity such as brute-force attempts or unauthorized access. Further analysis, multiple successful logins were associated with Logon Type 5, representing Windows service authentication rather than interactive user activity.
 
 ## Lessons Learned
 - Learned how to filter Security logs efficiently
