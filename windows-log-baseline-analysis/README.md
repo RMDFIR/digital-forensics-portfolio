@@ -37,11 +37,11 @@ Understanding baseline login behavior is critical for identifying abnormal authe
 
 ## Screenshots
 Example filtered Event Viewer results showing successful login events (4624)
-- <img width="830" height="548" alt="image" src="https://github.com/user-attachments/assets/ad67b329-f8c0-46c7-a0c8-7b854fd82b16" />
+<img width="830" height="548" alt="image" src="https://github.com/user-attachments/assets/ad67b329-f8c0-46c7-a0c8-7b854fd82b16" />
 
 Example filtered Event Viewer results showing failed login events (4625)
-- <img width="838" height="359" alt="image" src="https://github.com/user-attachments/assets/072c1026-8a6a-452e-b871-3721de745b27" />
+<img width="838" height="359" alt="image" src="https://github.com/user-attachments/assets/072c1026-8a6a-452e-b871-3721de745b27" />
 
 Example filtered Event Viewer XML details showing PrivilegeList (4672)
-- <img width="975" height="444" alt="image" src="https://github.com/user-attachments/assets/1f3b7f26-e99b-4c29-8401-03f38c56d809" />
+<img width="975" height="444" alt="image" src="https://github.com/user-attachments/assets/1f3b7f26-e99b-4c29-8401-03f38c56d809" />
 
